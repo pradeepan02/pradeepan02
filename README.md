@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]  
+# 👋 Hi, I’m Pradeepan S  
 ### **Full Stack Developer | AI Engineer | Tech Enthusiast**
 
 Welcome to my GitHub profile! I’m passionate about building **scalable web applications**, crafting **intelligent AI solutions**, and solving complex problems with code. Here, you’ll find a collection of my projects, experiments, and contributions to the tech community.
@@ -8,8 +8,7 @@ Welcome to my GitHub profile! I’m passionate about building **scalable web app
 ## 🚀 **What I Do**
 - **Full Stack Development**: Building end-to-end web applications with modern frameworks and tools.
 - **AI Engineering**: Designing and deploying machine learning models, NLP systems, and AI-driven solutions.
-- **DevOps & Cloud**: Automating deployments, managing infrastructure, and leveraging cloud platforms like AWS, GCP, and Azure.
-- **Open Source Contributor**: Actively contributing to open-source projects and sharing knowledge with the community.
+
 
 ---
 
@@ -29,8 +28,7 @@ Welcome to my GitHub profile! I’m passionate about building **scalable web app
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" title="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" title="Express.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" title="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" title="Flask" />
+
 </div>
 
 ### **AI & Machine Learning**
@@ -39,23 +37,16 @@ Welcome to my GitHub profile! I’m passionate about building **scalable web app
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" title="PyTorch" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" title="Scikit-Learn" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" title="OpenAI" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" title="Hugging Face" />
 </div>
 
 ### **Databases**
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" title="Redis" />
 </div>
 
 ### **DevOps & Cloud**
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" title="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" title="AWS" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" title="Google Cloud" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" title="Azure" />
 </div>
 
