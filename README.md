@@ -71,7 +71,7 @@ Welcome to my GitHub profile! I’m passionate about building **scalable web app
 
 ## 🧑‍💻 **LeetCode Stats**
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/pradeepan02theme=dark&font=Roboto" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/pradeepan02?theme=dark" alt="LeetCode Stats" />
 </div>
 
 ---
