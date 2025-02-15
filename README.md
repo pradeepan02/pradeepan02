@@ -1,104 +1,114 @@
-<h1 align="center"> 
-  👋 Hi, I'm <span style="color:#ff6600">Pradeepan S</span>
-</h1>
+# 👋 Hi, I’m Pradeepan S  
+### **Full Stack Developer | AI Engineer | Tech Enthusiast**
 
-<p align="center">
-  <strong>Full Stack Developer | AI Engineer | Tech Enthusiast</strong>
-</p>
+Welcome to my GitHub profile! I’m passionate about building **scalable web applications**, crafting **intelligent AI solutions**, and solving complex problems with code. Here, you’ll find a collection of my projects, experiments, and contributions to the tech community.
 
 ---
 
-## 🚀 About Me  
-🎯 Passionate about **building scalable web applications**, crafting **intelligent AI solutions**, and solving complex problems with code. Here, you’ll find a collection of my projects, experiments, and contributions to the tech community.
+## 🚀 **What I Do**
+- **Full Stack Development**: Building end-to-end web applications with modern frameworks and tools.
+- **AI Engineering**: Designing and deploying machine learning models, NLP systems, and AI-driven solutions.
+- **Tech Exploration**: Constantly experimenting with new technologies and frameworks to stay ahead of the curve.
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠️ **Tech Stack**
+### **Frontend**
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" title="React" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" title="Vue.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" title="Tailwind CSS" />
+</div>
 
-### **Frontend**  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+### **Backend**
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" title="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" title="Express.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" title="Flask" />
+</div>
 
-### **Backend**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+### **AI & Machine Learning**
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" title="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" title="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" title="OpenAI" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" title="Hugging Face" />
+</div>
 
-### **AI & Machine Learning**  
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+### **Databases**
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" />
+</div>
 
-### **Databases & Cloud**  
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</p>
-
----
-
-## 🌟 Featured Projects  
-
-### **Full Stack Projects**  
-🚀 **[E-Commerce Platform](#)** – A modern e-commerce platform built with **React, Node.js, and MongoDB**.  
-💬 **[Real-Time Chat App](#)** – Built using **Socket.io, Express.js, and WebSockets** for seamless communication.  
-
-### **AI Projects**  
-🤖 **[Sentiment Analysis](#)** – A powerful tool using **TensorFlow and Flask** to analyze text sentiment.  
-💡 **[AI Chatbot](#)** – An intelligent chatbot powered by **OpenAI's GPT-4 and Hugging Face models**.  
+### **DevOps & Cloud**
+<div align="center">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" title="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" title="Kubernetes" />
+</div>
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeepan02&show_icons=true&theme=radical&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepan02&layout=compact&theme=radical" />
-</p>
+## 🌟 **Featured Projects**
+### **Full Stack Projects**
+- **[E-Commerce Platform](link)**: A modern e-commerce platform built with React, Node.js, and MongoDB.
+- **[Real-Time Chat App](link)**: A real-time chat application using Socket.io, Express.js, and Tailwind CSS.
+
+### **AI Projects**
+- **[Sentiment Analysis Tool](link)**: A sentiment analysis tool using TensorFlow and Flask.
+- **[AI-Powered Chatbot](link)**: A chatbot powered by OpenAI's GPT-4 and Hugging Face models.
 
 ---
 
-## 🏆 LeetCode Stats  
-<p align="center">
-  <img src="https://leetode-stats.vercel.app/api?username=pradeepan02&theme=dark" />
-</p>
+## 📈 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeepan02&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepan02&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
-## 📫 Let's Connect!  
+## 🧑‍💻 **LeetCode Stats**
+<div align="center">
+  <img src="https://leetode-stats.vercel.app/api?username=pradeepan02&theme=dark" alt="LeetCode Stats" />
+</div>
 
-<p align="center">
+---
+
+## 📫 **Let’s Connect**
+I’m always open to collaborating on exciting projects or discussing ideas. Feel free to reach out!
+
+<div align="center">
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" />
   </a>
   <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" title="Twitter" />
   </a>
   <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email" />
   </a>
-</p>
+  <a href="https://github.com/pradeepan02">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub" />
+  </a>
+</div>
 
 ---
 
-## 🎉 Fun Fact  
-💡 When I’m not coding, I’m experimenting with AI models, playing chess, or exploring the latest tech trends!  
+## 💡 **Fun Fact**
+When I’m not coding, I’m probably experimenting with new AI models, playing chess, or exploring the latest tech trends!
 
 ---
 
-⭐️ **Feel free to explore my repositories and don’t forget to star ⭐ the ones you like!**  
+⭐️ **Feel free to explore my repositories and don’t forget to star the ones you like!** ⭐️
 
 ---
 
-<p align="center">Made with ❤️ by Pradeepan S</p>
+Made with ❤️ by Pradeepan S
