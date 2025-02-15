@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I’m passionate about building **scalable web app
 - **Full Stack Development**: Building end-to-end web applications with modern frameworks and tools.
 - **AI Engineering**: Designing and deploying machine learning models, NLP systems, and AI-driven solutions.
 
-
 ---
 
 ## 🛠️ **Tech Stack**
@@ -28,7 +27,6 @@ Welcome to my GitHub profile! I’m passionate about building **scalable web app
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" title="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" title="Express.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" />
-
 </div>
 
 ### **AI & Machine Learning**
@@ -65,8 +63,15 @@ Welcome to my GitHub profile! I’m passionate about building **scalable web app
 
 ## 📈 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeepan02&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeepan02&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepan02&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## 🧑‍💻 **LeetCode Stats**
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/pradeepan02?theme=dark&font=Roboto" alt="LeetCode Stats" />
 </div>
 
 ---
@@ -97,4 +102,4 @@ When I’m not coding, I’m probably experimenting with new AI models, playing 
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Pradeepan S
