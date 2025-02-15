@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Pradeepan S  
 ### **Full Stack Developer | AI Engineer | Tech Enthusiast**
 
-Welcome to my GitHub profile! I’m passionate about building **scalable web applications**, crafting **intelligent AI solutions**, and solving complex problems with code. Here, you’ll find a collection of my projects, experiments, and contributions to the tech community.
+Welcome to my GitHub profile! I’m passionate about building **scalable web applications**, crafting **intelligent AI solutions**, and solving complex problems with code. Here, you’ll find a collection of my projects, experiments, and contributions to the tech community. Let’s build something amazing together!
 
 ---
 
@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I’m passionate about building **scalable web app
 - **Full Stack Development**: Building end-to-end web applications with modern frameworks and tools.
 - **AI Engineering**: Designing and deploying machine learning models, NLP systems, and AI-driven solutions.
 - **Tech Exploration**: Constantly experimenting with new technologies and frameworks to stay ahead of the curve.
+- **Open Source Contributor**: Actively contributing to open-source projects and sharing knowledge with the community.
 
 ---
 
@@ -58,12 +59,12 @@ Welcome to my GitHub profile! I’m passionate about building **scalable web app
 
 ## 🌟 **Featured Projects**
 ### **Full Stack Projects**
-- **[E-Commerce Platform](link)**: A modern e-commerce platform built with React, Node.js, and MongoDB.
-- **[Real-Time Chat App](link)**: A real-time chat application using Socket.io, Express.js, and Tailwind CSS.
+- **[E-Commerce Platform](link)**: A modern e-commerce platform built with React, Node.js, and MongoDB. Features include user authentication, product management, and payment integration.
+- **[Real-Time Chat App](link)**: A real-time chat application using Socket.io, Express.js, and Tailwind CSS. Supports group chats, private messaging, and message history.
 
 ### **AI Projects**
-- **[Sentiment Analysis Tool](link)**: A sentiment analysis tool using TensorFlow and Flask.
-- **[AI-Powered Chatbot](link)**: A chatbot powered by OpenAI's GPT-4 and Hugging Face models.
+- **[Sentiment Analysis Tool](link)**: A sentiment analysis tool using TensorFlow and Flask. Analyzes text data to determine positive, negative, or neutral sentiment.
+- **[AI-Powered Chatbot](link)**: A chatbot powered by OpenAI's GPT-4 and Hugging Face models. Capable of answering user queries and providing contextual responses.
 
 ---
 
@@ -77,7 +78,7 @@ Welcome to my GitHub profile! I’m passionate about building **scalable web app
 
 ## 🧑‍💻 **LeetCode Stats**
 <div align="center">
-  <img src="https://leetode-stats.vercel.app/api?username=pradeepan02&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/pradeepan02?theme=dark&font=Roboto" alt="LeetCode Stats" />
 </div>
 
 ---
@@ -103,7 +104,7 @@ I’m always open to collaborating on exciting projects or discussing ideas. Fee
 ---
 
 ## 💡 **Fun Fact**
-When I’m not coding, I’m probably experimenting with new AI models, playing chess, or exploring the latest tech trends!
+When I’m not coding, I’m probably experimenting with new AI models, playing chess, or exploring the latest tech trends! Did you know I once built a chatbot that could play chess with you? ♟️
 
 ---
 
