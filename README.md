@@ -69,10 +69,11 @@ Welcome to my GitHub profile! I’m passionate about building **scalable web app
 
 ---
 
-## �‍💻 **LeetCode Stats**
+## 🧑‍💻 **LeetCode Stats**
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/?username=pradeepan02&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats.vercel.app/api?username=pradeepan02&theme=dark" alt="LeetCode Stats" />
 </div>
+
 ---
 
 ## 📫 **Let’s Connect**
