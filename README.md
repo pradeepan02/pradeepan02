@@ -87,19 +87,16 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeepan02&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeepan02&show_icons=true&theme=dark&hide_border=true"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pradeepan02&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🌟 **GitHub Metrics**
 <p align="center">
-  <img src="https://metrics.lecoq.io/pradeepan02?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zeusrishi&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeusrishi&theme=dark" alt="GitHub Streak" />
 </p>
-
 ---
 
 ## 📈 **GitHub Activity Graph**
