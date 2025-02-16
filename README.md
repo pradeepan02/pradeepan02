@@ -16,38 +16,34 @@
 
 ## 🚀 **What I Do**
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/code.png" width="60"/>
-        <br>
-        <strong>Full Stack Development</strong>
-        <br>
-        Crafting seamless and scalable web applications.
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
-        <br>
-        <strong>AI & Machine Learning</strong>
-        <br>
-        Implementing AI-driven solutions.
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/experimental-tool.png" width="60"/>
-        <br>
-        <strong>Tech Enthusiast</strong>
-        <br>
-        Experimenting with new technologies.
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/open-source.png" width="60"/>
-        <br>
-        <strong>Open Source Contributor</strong>
-        <br>
-        Sharing knowledge with the community.
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://img.icons8.com/color/96/000000/code.png" width="60"/>
+    <br>
+    <strong>Full Stack Development</strong>
+    <br>
+    Crafting seamless and scalable web applications.
+  </p>
+  <p>
+    <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
+    <br>
+    <strong>AI & Machine Learning</strong>
+    <br>
+    Implementing AI-driven solutions.
+  </p>
+  <p>
+    <img src="https://img.icons8.com/color/96/000000/experimental-tool.png" width="60"/>
+    <br>
+    <strong>Tech Enthusiast</strong>
+    <br>
+    Experimenting with new technologies.
+  </p>
+  <p>
+    <img src="https://img.icons8.com/color/96/000000/open-source.png" width="60"/>
+    <br>
+    <strong>Open Source Contributor</strong>
+    <br>
+    Sharing knowledge with the community.
+  </p>
 </div>
 
 ---
@@ -72,40 +68,34 @@
 
 ## 🌟 **Featured Projects**
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/shopping-cart.png" width="60"/>
-        <br>
-        <strong>E-Commerce Platform</strong>
-        <br>
-        React, Node.js & MongoDB powered platform.
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/chat.png" width="60"/>
-        <br>
-        <strong>Real-Time Chat App</strong>
-        <br>
-        Chat system with Socket.io and Express.
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
-        <br>
-        <strong>Sentiment Analysis Tool</strong>
-        <br>
-        Text sentiment detection with TensorFlow.
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/chatbot.png" width="60"/>
-        <br>
-        <strong>AI Chatbot</strong>
-        <br>
-        GPT-4 powered chatbot with NLP.
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://img.icons8.com/color/96/000000/shopping-cart.png" width="60"/>
+    <br>
+    <strong>E-Commerce Platform</strong>
+    <br>
+    React, Node.js & MongoDB powered platform.
+  </p>
+  <p>
+    <img src="https://img.icons8.com/color/96/000000/chat.png" width="60"/>
+    <br>
+    <strong>Real-Time Chat App</strong>
+    <br>
+    Chat system with Socket.io and Express.
+  </p>
+  <p>
+    <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
+    <br>
+    <strong>Sentiment Analysis Tool</strong>
+    <br>
+    Text sentiment detection with TensorFlow.
+  </p>
+  <p>
+    <img src="https://img.icons8.com/color/96/000000/chatbot.png" width="60"/>
+    <br>
+    <strong>AI Chatbot</strong>
+    <br>
+    GPT-4 powered chatbot with NLP.
+  </p>
 </div>
 
 ---
