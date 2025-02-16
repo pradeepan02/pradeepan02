@@ -92,15 +92,19 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pradeepan02&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 🌟 **GitHub Metrics**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pradeepan02&theme=radical&margin-w=10&column=5"/>
+  <img src="https://metrics.lecoq.io/pradeepan02?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata"/>
 </p>
 
 ---
 
-## 🎯 **LeetCode & Coding Stats**
+## 📈 **GitHub Activity Graph**
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/pradeepan02?theme=dark&font=Montserrat&ext=heatmap"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepan02&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
