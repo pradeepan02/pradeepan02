@@ -31,19 +31,18 @@
 ## 🛠️ **Tech Stack**
 ### 🌐 **Frontend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,next,tailwind,bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nextjs,react,tailwind,vue,javascript"/>
 </p>
 
 ### 🔥 **Backend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,fastapi,java,spring"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,flask"/>
 </p>
 
 ### 🛢️ **Databases & DevOps**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,kubernetes,azure,aws,linux,git,github,graphql"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,azure"/>
 </p>
-
 ---
 
 ## 🌟 **Featured Projects**
