@@ -84,7 +84,7 @@ I'm a passionate **Full Stack Developer** and **AI Engineer** with a strong inte
 
 ## 📫 **Let’s Connect**
 <p align="center">
-  <a href="www.linkedin.com/in/pradeepans0201">
+  <a href="https://linkedin.com/in/pradeepans0201">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/pradeepan02/">
