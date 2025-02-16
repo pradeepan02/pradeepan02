@@ -14,7 +14,12 @@
 
 ---
 
-## 🚀 **What I Do**
+## 🌟 **About Me**
+I'm a passionate **Full Stack Developer** and **AI Engineer** with a strong interest in building innovative solutions that solve real-world problems. I love exploring new technologies, contributing to open-source projects, and creating AI-driven applications. My goal is to continuously learn, grow, and make a positive impact through technology.
+
+---
+
+## � **What I Do**
 <div align="center">
   <table>
     <tr>
@@ -43,11 +48,22 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,azure"/>
 </p>
+
 ---
 
-##🌟 Featured Projects
-<div align="center"> <table> <tr> <td align="center">📄✨<br><b>Cosu AI</b><br>AI-powered resume builder and cover letter generator.</td> <td align="center">🛍️<br><b>Shopper</b><br>E-commerce website for dress shopping.</td> <td align="center">🐦<br><b>Hate Detection in Tweets</b><br>ML model to classify hate and offensive language.</td> <td align="center">🩺<br><b>Skin Cancer Classification</b><br>Transfer learning for skin cancer detection.</td> </tr> </table> </div>
-⭐️ Explore, contribute, or star the projects you love! ⭐️
+## 🌟 **Featured Projects**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">📄✨<br><b>Cosu AI</b><br>AI-powered resume builder and cover letter generator.</td>
+      <td align="center">🛍️<br><b>Shopper</b><br>E-commerce website for dress shopping.</td>
+      <td align="center">🐦<br><b>Hate Detection in Tweets</b><br>ML model to classify hate and offensive language.</td>
+      <td align="center">🩺<br><b>Skin Cancer Classification</b><br>Transfer learning for skin cancer detection.</td>
+    </tr>
+  </table>
+</div>
+
+⭐️ **Explore, contribute, or star the projects you love!** ⭐️
 
 ---
 
@@ -72,7 +88,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/pradeepan02/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="mailto:pradeep02012005.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -84,7 +100,7 @@
 
 ---
 
-## � Cool Project Alert
-🚀 Created Cosu AI – an AI-powered resume builder and cover letter generator! 📄✨ Craft professional resumes and cover letters in minutes with ease. Give it a try and share your feedback! 😊
+## 🎉 **Cool Project Alert**
+> 🚀 Created **Cosu AI** – an AI-powered resume builder and cover letter generator! 📄✨ Craft professional resumes and cover letters in minutes with ease. Give it a try and share your feedback! 😊  
 
-⭐️ Explore my projects, contribute, or star the ones you like! ⭐️
+⭐️ **Explore my projects, contribute, or star the ones you like!** ⭐️
