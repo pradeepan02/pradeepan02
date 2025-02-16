@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">🚀 Hi, I'm <span style="color:#FF5733">Pradeepan S</span> 👨‍💻</h1>
 <h3 align="center">Full Stack Developer | AI Engineer | Tech Enthusiast</h3>
 
@@ -81,4 +81,4 @@
 ---
 
 <h3 align="center">Made with ❤️ by Pradeepan S</h3>
-```
+
