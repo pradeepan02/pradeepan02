@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Pradeepan S  
 ### **Full Stack Developer | AI Engineer | Tech Enthusiast**
 
-Welcome to my GitHub profile! I’m passionate about building **scalable web applications**, crafting **intelligent AI solutions**, and solving complex problems with code. Here, you’ll find a collection of my projects, experiments, and contributions to the tech community. Let’s build something amazing together!
+🎉 Welcome to my GitHub profile! I’m passionate about building **scalable web applications**, crafting **intelligent AI solutions**, and solving complex problems with code. Here, you’ll find a collection of my projects, experiments, and contributions to the tech community. Let’s build something amazing together! 🚀
 
 ---
 
