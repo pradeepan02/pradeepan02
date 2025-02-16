@@ -90,14 +90,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pradeepan02&show_icons=true&theme=dark&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pradeepan02&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=pradeepan02&theme=dark&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeusrishi&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeusrishi&theme=dark" alt="GitHub Streak" />
-</p>
----
 
 ## 📈 **GitHub Activity Graph**
 <p align="center">
