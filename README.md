@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=FF5733&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps+🚀;AI+Engineer+🤖;Tech+Explorer+🔍;Open+Source+Contributor+💡"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🖥️;AI+Engineer+🤖;Tech+Explorer+🔍;Open+Source+Contributor+💡"/>
 </p>
 
 ---
@@ -25,7 +25,7 @@
 
 ### **Backend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,spring"/>
 </p>
 
 ### **AI & Machine Learning**
@@ -35,12 +35,12 @@
 
 ### **Databases**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis"/>
 </p>
 
 ### **DevOps & Cloud**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes"/>
 </p>
 
 ---
@@ -58,22 +58,26 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pradeepan02&theme=radical&no-frame=false&margin-w=15"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepan02&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepan02&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeepan02&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=pradeepan02&theme=github"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pradeepan02&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-## 🎯 **LeetCode Stats**
+## 🎯 **LeetCode & Coding Stats**
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/pradeepan02?theme=dark&font=Montserrat&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/pradeepan02?theme=dark&font=Montserrat&ext=activity"/>
+</p>
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/your-wakatime-id.svg"/>
 </p>
 
 ---
