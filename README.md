@@ -1,4 +1,4 @@
-
+```md
 <h1 align="center">🚀 Hi, I'm <span style="color:#FF5733">Pradeepan S</span> 👨‍💻</h1>
 <h3 align="center">Full Stack Developer | AI Engineer | Tech Enthusiast</h3>
 
@@ -20,42 +20,9 @@
 
 ## 🛠️ **Tech Stack**
 
-<table align="center">
-<tr>
-<td align="center" width="150">
-  <img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML
-</td>
-<td align="center" width="150">
-  <img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS
-</td>
-<td align="center" width="150">
-  <img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
-</td>
-<td align="center" width="150">
-  <img src="https://skillicons.dev/icons?i=react" width="50"/><br>React
-</td>
-<td align="center" width="150">
-  <img src="https://skillicons.dev/icons?i=vue" width="50"/><br>Vue.js
-</td>
-</tr>
-<tr>
-<td align="center" width="150">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js
-</td>
-<td align="center" width="150">
-  <img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python
-</td>
-<td align="center" width="150">
-  <img src="https://skillicons.dev/icons?i=flask" width="50"/><br>Flask
-</td>
-<td align="center" width="150">
-  <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL
-</td>
-<td align="center" width="150">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,python,flask,mysql,mongodb,docker,azure" width="700"/>
+</p>
 
 ---
 
@@ -72,11 +39,15 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeepan02&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeepan02&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepan02&theme=react-dark"/>
+  <img src="https://streak-stats.demolab.com?user=pradeepan02&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeepan02&theme=radical"/>
 </p>
 
 ---
@@ -87,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pradeepan02&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepan02&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
