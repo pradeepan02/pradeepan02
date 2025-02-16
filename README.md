@@ -1,4 +1,3 @@
-
 <h1 align="center">🚀 Hi, I'm <span style="color:#FF5733">Pradeepan S</span> 👨‍💻</h1>
 <h3 align="center">Full Stack Developer | AI Engineer | Tech Enthusiast</h3>
 
@@ -19,9 +18,8 @@
 ---
 
 ## 🛠️ **Tech Stack**
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,python,flask,mysql,mongodb,docker,azure" width="700"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,next,nodejs,express,python,flask,django,fastapi,java,spring,cpp,mysql,postgres,mongodb,redis,docker,kubernetes,azure,aws,linux,git,github,graphql,tailwind" width="800"/>
 </p>
 
 ---
@@ -47,14 +45,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeepan02&theme=radical"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pradeepan02&theme=radical&margin-w=10&column=5"/>
 </p>
 
 ---
 
 ## 🎯 **LeetCode & Coding Stats**
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/pradeepan02?theme=dark&font=Montserrat&ext=activity"/>
+  <img src="https://leetcard.jacoblin.cool/pradeepan02?theme=dark&font=Montserrat&ext=heatmap"/>
 </p>
 
 ---
@@ -77,4 +75,3 @@
 ---
 
 <h3 align="center">Made with ❤️ by Pradeepan S</h3>
-
