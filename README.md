@@ -90,6 +90,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pradeepan02&show_icons=true&theme=dark&hide_border=true"/>
   <img src="https://streak-stats.demolab.com?user=pradeepan02&theme=dark&hide_border=true"/>
 </p>
+
+---
+
+## 🎯 **LeetCode Stats**
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/pradeepan02?theme=dark&font=Montserrat&ext=heatmap"/>
+</p>
+
 ---
 
 ## 📫 **Let’s Connect**
