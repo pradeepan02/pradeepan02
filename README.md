@@ -92,6 +92,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pradeepan02&theme=dark&hide_border=true"/>
 </p>
+---
+
 ## 📫 **Let’s Connect**
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile">
