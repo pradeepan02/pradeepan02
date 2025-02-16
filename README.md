@@ -45,17 +45,9 @@
 </p>
 ---
 
-## 🌟 **Featured Projects**
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">🛒<br><b>E-Commerce Platform</b><br>React, Node.js & MongoDB.</td>
-      <td align="center">💬<br><b>Real-Time Chat App</b><br>Socket.io and Express.</td>
-      <td align="center">🧠<br><b>Sentiment Analysis</b><br>TensorFlow NLP model.</td>
-      <td align="center">🤖<br><b>AI Chatbot</b><br>GPT-4 powered bot.</td>
-    </tr>
-  </table>
-</div>
+##🌟 Featured Projects
+<div align="center"> <table> <tr> <td align="center">📄✨<br><b>Cosu AI</b><br>AI-powered resume builder and cover letter generator.</td> <td align="center">🛍️<br><b>Shopper</b><br>E-commerce website for dress shopping.</td> <td align="center">🐦<br><b>Hate Detection in Tweets</b><br>ML model to classify hate and offensive language.</td> <td align="center">🩺<br><b>Skin Cancer Classification</b><br>Transfer learning for skin cancer detection.</td> </tr> </table> </div>
+⭐️ Explore, contribute, or star the projects you love! ⭐️
 
 ---
 
@@ -76,13 +68,13 @@
 
 ## 📫 **Let’s Connect**
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="www.linkedin.com/in/pradeepans0201">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://leetcode.com/u/pradeepan02/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:pradeep02012005.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/pradeepan02">
@@ -92,7 +84,7 @@
 
 ---
 
-## 🎉 **Fun Fact**
-> 🏆 I once built a program that can generate memes automatically based on trending topics! 🖼️🔥 Try it out! 😆
+## � Cool Project Alert
+🚀 Created Cosu AI – an AI-powered resume builder and cover letter generator! 📄✨ Craft professional resumes and cover letters in minutes with ease. Give it a try and share your feedback! 😊
 
-⭐️ **Explore my repositories and feel free to contribute or star the ones you like!** ⭐️
+⭐️ Explore my projects, contribute, or star the ones you like! ⭐️
