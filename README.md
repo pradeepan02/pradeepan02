@@ -71,6 +71,9 @@ I'm a passionate **Full Stack Developer** and **AI Engineer** with a strong inte
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pradeepan02&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepan02&theme=radical"/>
+</p>
 
 ---
 
